@@ -1,0 +1,11 @@
+*.csv
+mesio-summer-school-2019/
+*.DS_Store
+*.pdf
+catboost_info
+*.json
+*.pyc
+*.tsv
+MNIST
+Sentiment Analysis
+*.xlsx
